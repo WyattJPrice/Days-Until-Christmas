@@ -1,9 +1,4 @@
 const modal = document.querySelector(".popup")
-function popup(); {
+function show(); {
  modal.showModal();
 }
-
-modal.addEventListener('click', (event) => {
-  if (event.target.class !== 'youtube') {
-modal.hide();
-  }})
