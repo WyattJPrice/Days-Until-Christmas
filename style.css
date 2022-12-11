@@ -77,3 +77,16 @@ h1 {
     font-size: 10px;
   }
 }
+
+p {
+  padding: 10px;
+  color: black;
+  background: white;
+  border: 6px solid black;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.youtube {
+  border: 8px solid black;
+}
