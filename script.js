@@ -7,7 +7,7 @@ const loading = document.getElementById('loading');
 
 const currentYear = new Date().getFullYear();
 
-const newYearTime = new Date(`December 25 ${currentYear} 00:00:00`);
+const newYearTime = new Date(`December 25 2024 00:00:00`);
 
 // Update countdown time
 function updateCountdown() {
